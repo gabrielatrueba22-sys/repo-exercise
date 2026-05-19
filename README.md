@@ -1,2 +1,2 @@
-# my-first-repo
+# repo-excercise
 practice for learning Git and Github
